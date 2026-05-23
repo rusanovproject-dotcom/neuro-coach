@@ -66,7 +66,7 @@ core/        profile · drives · history · people · what-works
 patterns/    energy · productivity · procrastination   (статус: hypothesis→confirmed→core)
 tracking/    daily/YYYY-MM/DD.md · metrics-YYYY.jsonl   (jsonl = единственный источник чисел)
 weekly/ · monthly/                       свёртки + промоушн в ядро
-skills/      11 плейбуков ведения + генератор недельного отчёта
+skills/      12 плейбуков ведения (вкл. goal-setting) + генератор недельного отчёта
 _archive/    свёрнутое сырьё
 ```
 
