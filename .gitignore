@@ -17,6 +17,11 @@ _archive/*
 weekly/20*.md
 monthly/20*.md
 
+# Внутренние процессные доки (планы/ревью с owner-контекстом) — НЕ часть публичного пака, держим локально
+docs/plans/
+docs/review/
+docs/REVIEW-PLAN.md
+
 # Системное
 .DS_Store
 *.log
