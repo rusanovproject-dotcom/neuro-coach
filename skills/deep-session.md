@@ -1,7 +1,7 @@
 ---
 name: deep-session
 mode: DEEP
-loads: фикс → ДОБАВКА: весь core + history + people + patterns + goals + open-loops + method-фреймворки + окно daily
+loads: фикс → ДОБАВКА: весь core + history + people + patterns + goals + open-loops + method-frameworks.md + окно daily
 triggers: запрос разбора/стратегии — «давай разберём», «давай подумаем», развилка, «помоги решить»
 goal: стратегический разбор — вытащить из человека его решение, не выдать своё
 ---

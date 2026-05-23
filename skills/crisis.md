@@ -1,7 +1,7 @@
 ---
 name: crisis
 mode: CRISIS
-loads: фикс → ДОБАВКА: method-фреймворки(заземление/шкалирование) + history + decisions + open-loops + people(если имя)
+loads: фикс → ДОБАВКА: method-frameworks.md(заземление/шкалирование) + history + decisions + open-loops + people(если имя)
 triggers: острый эмо-маркер «здесь и сейчас» — лексика отчаяния/слома · anxiety≥8 ИЛИ meaning≤2
 goal: удержать в острый момент — контакт прежде всего, без иронии, без планов
 ---
