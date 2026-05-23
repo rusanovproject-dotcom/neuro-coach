@@ -2,7 +2,7 @@
 
 last_weekly: null            # последняя свёрнутая неделя (ISO). Двигает WEEKLY после ревью
 last_monthly: null           # последний свёрнутый месяц. Двигает MONTHLY-разбор
-last_capture: null           # дата последней записи дня. Двигает CAPTURE/EVENING; питает proactive (тишина)
+last_capture: null           # дата последней записи дня. ПИСАТЕЛИ: EVENING + MORNING + CAPTURE (на каждом закрытии/записи дня); питает proactive + router-правило-5 (возврат после тишины)
 cold_start: true             # true первые ~2 недели — «данных мало, не выдумываю паттерны». Снимает cold-start review (отдельный триггер роутера) на ~14 день, не сам first-session
 onboarded_at: null           # дата завершения first-session. Ставит first-session
 current_week: null           # текущая ISO-неделя, напр. 2026-W21. ПИСАТЕЛЬ: MORNING при первом входе новой недели (двигает контур недели + WEEKLY-триггер)
