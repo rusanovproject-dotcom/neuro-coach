@@ -16,7 +16,7 @@
 - **накопление** (`patterns/` + `goals/commitments/decisions/open-loops`) — что коуч выучил, цели, привычки, петли;
 - **трекинг** (`tracking/`) — день текстом + один `jsonl` на числа;
 - **свёртки** (`weekly/` · `monthly/`) — недельный сторителлерский отчёт + месячный тренд;
-- **навыки** (`skills/`, 12 плейбуков ведения + генератор недельного отчёта) — как коуч ведёт в каждом режиме.
+- **навыки** (`skills/`, 14 навыков ведения — вкл. goal-setting, движок утреннего шоу и генератор недельного отчёта) — как коуч ведёт в каждом режиме.
 
 ## Как работает
 
@@ -41,7 +41,7 @@ patterns/  energy · productivity · procrastination   (статус: hypothesis
 goals · commitments · decisions · open-loops          accountability
 tracking/  daily/TEMPLATE · metrics-YYYY.jsonl · metrics-schema · procedures
 weekly/ · monthly/                       свёртки (TEMPLATE)
-skills/    12 плейбуков ведения (вкл. goal-setting — постановка целей) + генератор отчёта
+skills/    14 навыков: плейбуки ведения (вкл. goal-setting) + движок утреннего шоу + генератор отчёта
 docs/SPEC.md                             полная спека v4 (источник правды)
 ```
 
