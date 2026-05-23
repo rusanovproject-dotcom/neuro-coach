@@ -1,0 +1,22 @@
+# Личные данные инстанса — НЕ коммитить в публичный репозиторий.
+# Шаблоны (TEMPLATE.md, пустые scaffold'ы core/) остаются — это и есть пак.
+
+# Реальные дневниковые записи по дням
+tracking/daily/20*/
+tracking/daily/*/
+
+# Заполненные метрики с данными (пустой seed metrics-2026.jsonl остаётся)
+tracking/metrics-20*.jsonl
+!tracking/metrics-2026.jsonl
+
+# Свёрнутое сырьё и архив
+_archive/*
+!_archive/.gitkeep
+
+# Реальные недельные/месячные отчёты (TEMPLATE остаётся)
+weekly/20*.md
+monthly/20*.md
+
+# Системное
+.DS_Store
+*.log
